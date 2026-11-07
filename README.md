@@ -21,10 +21,9 @@ I recently completed a Data Analytics Programme at TS Academy, where I developed
 - Dashboard Development
 
 ## 📊 Featured Projects
-
-1. [Excel Employee Data Cleaning and Analysis](https://github.com/Waheedat-Portfolio/excel-employee-data-analysis)
-2. [Excel Sales Analysis Using Excel and Power Pivot](https://github.com/Waheedat-Portfolio/excel-power-pivot-sales-analysis)
-3. [Power BI Logistics Operations Capstone Project](https://github.com/Waheedat-Portfolio/power-bi-logistics-operations-capstone)
+1. [Excel Employee Data Cleaning and Analysis](https://github.com/Waheedat-Portfolio/Excel-power-pivot-sales-analysis)
+2. [Excel Sales Analysis Using Excel and Power Pivot](https://github.com/Waheedat-Portfolio/Excel-Employee-Data-Cleaning-and-Analysis-Project)
+3. [Power BI Logistics Operations Capstone Project](https://github.com/Waheedat-Portfolio/Power-bi-logistics-operations-capstone)
 
 ## 🏥 Areas of Interest
 - Health Data Analysis
